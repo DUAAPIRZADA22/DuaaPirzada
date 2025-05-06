@@ -9,9 +9,9 @@
 
 ### 👩‍💻 About Me
 
-- 🌱 Currently learning **AI, Web 3.0, and Metaverse** at GIAIC
+- 🌱 **Currently learning** **AI, Web 3.0, and Metaverse** at GIAIC
 - 💻 Passionate about **front-end development** and **UI/UX design**
-- 🧠 Always excited to learn **new technologies and frameworks**
+- 🧠 Always excited to learn **new technologies** and **frameworks**
 - 🚀 Participated in multiple **hackathons** and **project sprints**
 - 📦 Built several projects using **Next.js**, **Tailwind CSS**, and **React**
 - 🎯 Currently building **secure apps** using **Python + Streamlit**
@@ -41,10 +41,11 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:pirzadaduaa87@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/duaa-pirzada-52a1062aa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/duaa_pirzada/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://my-personal-portfolio-nine-tan.vercel.app/"><img src="https://img.shields.io/badge/MyPortfolio-Visit-blueviolet?style=for-the-badge"/></a>
+  <a href="mailto:pirzadaduaa87@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/duaa-pirzada-52a1062aa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/duaa_pirzada/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://twitter.com/duaa_pirzada"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://my-personal-portfolio-nine-tan.vercel.app/"><img src="https://img.shields.io/badge/MyPortfolio-Visit-blueviolet?style=for-the-badge" alt="Portfolio"/></a>
 </p>
 
 ---
@@ -52,6 +53,7 @@
 <p align="center">👀 Profile Views:  
   <img src="https://komarev.com/ghpvc/?username=DUAAPIRZADA22&label=Profile%20views&color=0e75b6&style=flat" alt="DUAAPIRZADA22" />
 </p>
+
 
 
 
