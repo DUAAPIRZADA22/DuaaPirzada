@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Duaa Pirzada</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/DUAAPIRZADA22">Duaa Pirzada</a></h1>
 <h3 align="center">A Passionate Front-End Developer | AI Enthusiast 🚀</h3>
 
 <p align="center">
@@ -43,13 +43,15 @@
 <p align="center">
   <a href="mailto:pirzadaduaa87@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/duaa-pirzada-52a1062aa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/duaa_pirzada/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://my-personal-portfolio-nine-tan.vercel.app/"><img src="https://img.shields.io/badge/MyPortfolio-Visit-blueviolet?style=for-the-badge"/></a>
 </p>
 
 ---
 
 <p align="center">👀 Profile Views:  
-  <img src="https://komarev.com/ghpvc/?username=duaapirzada&label=Profile%20views&color=0e75b6&style=flat" alt="duaapirzada" />
+  <img src="https://komarev.com/ghpvc/?username=DUAAPIRZADA22&label=Profile%20views&color=0e75b6&style=flat" alt="DUAAPIRZADA22" />
 </p>
+
 
 
