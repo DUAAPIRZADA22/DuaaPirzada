@@ -41,9 +41,9 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://your-portfolio.vercel.app"><img src="https://img.shields.io/badge/MyPortfolio-Visit-blueviolet?style=for-the-badge"/></a>
+  <a href="mailto:pirzadaduaa87@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/duaa-pirzada-52a1062aa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://my-personal-portfolio-nine-tan.vercel.app/"><img src="https://img.shields.io/badge/MyPortfolio-Visit-blueviolet?style=for-the-badge"/></a>
 </p>
 
 ---
