@@ -7,6 +7,20 @@
 
 ---
 
+### 👩‍💻 About Me
+
+- 🌱 Currently learning **AI, Web 3.0, and Metaverse** at GIAIC
+- 💻 Passionate about **front-end development** and **UI/UX design**
+- 🧠 Always excited to learn **new technologies and frameworks**
+- 🚀 Participated in multiple **hackathons** and **project sprints**
+- 📦 Built several projects using **Next.js**, **Tailwind CSS**, and **React**
+- 🎯 Currently building **secure apps** using **Python + Streamlit**
+- 💡 Interested in **creative design**, **animation**, and **clean code**
+- 🎓 Final year student, preparing for a career in **tech innovation**
+- 🌐 Portfolio Coming Soon on [Vercel](https://your-portfolio.vercel.app)
+
+---
+
 ### 🛠️ My Skills & Tools
 
 <p align="center">
@@ -24,28 +38,12 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duaapirzada&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="Duaa's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duaapirzada&theme=tokyonight&hide_border=false" alt="Duaa's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duaapirzada&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:pirzadaduaa87@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="[/www.linkedin.com/in/duaa-pirzada-52a1062aa](https://www.linkedin.com/in/duaa-pirzada-52a1062aa/)/(https://www.linkedin.com/in/duaa-pirzada-52a1062aa/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="[https://your-portfolio.vercel.app](https://my-personal-portfolio-nine-tan.vercel.app/)"><img src="https://img.shields.io/badge/MyPortfolio-Visit-blueviolet?style=for-the-badge"/></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://your-portfolio.vercel.app"><img src="https://img.shields.io/badge/MyPortfolio-Visit-blueviolet?style=for-the-badge"/></a>
 </p>
 
 ---
@@ -53,4 +51,5 @@
 <p align="center">👀 Profile Views:  
   <img src="https://komarev.com/ghpvc/?username=duaapirzada&label=Profile%20views&color=0e75b6&style=flat" alt="duaapirzada" />
 </p>
+
 
