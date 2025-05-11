@@ -17,7 +17,7 @@
 - 🎯 Currently building **secure apps** using **Python + Streamlit**
 - 💡 Interested in **creative design**, **animation**, and **clean code**
 - 🎓 Final year student, preparing for a career in **tech innovation**
-- 🌐 Portfolio Coming Soon on [Vercel](https://your-portfolio.vercel.app)
+
 
 ---
 
@@ -44,7 +44,7 @@
   <a href="mailto:pirzadaduaa87@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/duaa-pirzada-52a1062aa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/codebyduaa/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href=""><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://x.com/DuaaPirzada"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="https://my-personal-portfolio-nine-tan.vercel.app/"><img src="https://img.shields.io/badge/MyPortfolio-Visit-blueviolet?style=for-the-badge" alt="Portfolio"/></a>
 </p>
 
